@@ -1,6 +1,4 @@
 # BlackholeGravitySimulator
-# Blackhole Gravity Simulator
-
 Welcome to the Blackhole Gravity Simulator, an interactive gravitational slingshot simulation created using Pygame!
 
 ## Overview
@@ -17,19 +15,19 @@ This project simulates the fascinating phenomenon of gravitational slingshot aro
 
 1. Clone the repository:
 
-git clone https://github.com/whitewolf2000ani/BlackholeGravitySimulator.git
+```git clone https://github.com/whitewolf2000ani/BlackholeGravitySimulator.git```
 
 2. Navigate to the project directory:
 
-cd BlackholeGravitySimulator
+```cd BlackholeGravitySimulator```
 
 3. Install the required dependencies:
 
-pip install pygame
+```pip install pygame```
 
 4. Run the simulation:
 
-python main.py
+```python main.py```
 
 
 ## How to Use
